@@ -1,41 +1,69 @@
-<h1 align="center">Hi 👋, I'm Anirudha Basu Thakur</h1>
-<h3 align="center">Passionate Developer | Final Year Student | Tech Explorer</h3>
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anirudha!
+</h1>
+
+<p align="center">
+  <a href="https://github.com/Ani0811">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student;Spring+Boot+%7C+PHP+%7C+ASP.NET+MVC;Passionate+about+Web+Dev+%F0%9F%92%BB;Open+to+collaborate+on+projects+%F0%9F%91%A5" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-- 🌱 I’m currently learning **Spring Boot, Node.js, and MySQL**
-- 🛠️ Projects I'm working on:
-  - Online Bank Management System 💳
-  - Inventory Manager 📦
-  - Personal Portfolio using PHP + Node.js 🧑‍💼
-- 💬 Ask me about anything web-related (ASP.NET MVC, PHP, JS, etc.)
-- 📫 Reach me at: `anirudha.basuthakur@example.com`
-- ⚡ Fun fact: I love rebuilding my own projects in different stacks
+### 🚀 About Me
+
+- 🧑‍💻 Final Year Computer Science Student
+- 🔭 Currently working on:
+  - 💳 **Online Bank Management System** – Handles accounts, transactions, and roles (Admin/User)
+  - 📦 **Inventory Manager** – ASP.NET MVC-based stock & product management tool
+  - 🏘️ **Real Estate Management System** – Tracks properties, agents, and client interest using PHP & MySQL
+  - 🧑‍💼 **Portfolio Project** – A hybrid Node.js + PHP system for user profile building
+- 🌱 Learning: **Spring Boot**, **Node.js**, **AJAX**, **MySQL**
+- 💡 Interests: Full-stack apps, clean UI/UX, system design
+- ⚡ Fun fact: I enjoy building the same system in multiple stacks just for fun!
 
 ---
 
-### 🔧 Tech Stack
+### 💼 Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,js,bootstrap,html,css,git,vscode,eclipse" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
-![Ani0811's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=dark)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani0811&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-### 🔗 Connect With Me
+### 🐍 Contribution Graph (Snake Animation)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+<p align="center">
+  <img src="https://github.com/Ani0811/Ani0811/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
-> *Thanks for visiting my profile. Let's build something amazing together!*
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:anirudha.basuthakur@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+> ⚙️ *Thanks for visiting! Let’s build something great together.*
