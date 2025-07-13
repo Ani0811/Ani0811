@@ -18,20 +18,20 @@
 
 - 🧑‍💻 Final Year Computer Science Student
 - 🔭 Currently working on:
-  - 💳 **Online Bank Management System** – Handles accounts, transactions, and roles (Admin/User)
-  - 📦 **Inventory Manager** – ASP.NET MVC-based stock & product management tool
-  - 🏘️ **Real Estate Management System** – Tracks properties, agents, and client interest using PHP & MySQL
-  - 🧑‍💼 **Portfolio Project** – A hybrid Node.js + PHP system for user profile building
-- 🌱 Learning: **Spring Boot**, **Node.js**, **AJAX**, **MySQL**
-- 💡 Interests: Full-stack apps, clean UI/UX, system design
-- ⚡ Fun fact: I enjoy building the same system in multiple stacks just for fun!
+  - 💳 **Online Bank Management System** – A Spring Boot project to manage user roles, customer accounts, and transaction logs securely with MySQL
+  - 📦 **Inventory Management System** – ASP.NET MVC app (no Entity Framework) using custom DAL for tracking product stock, CRUD operations, and inventory logs
+  - 🏘️ **Rimberio – Real Estate Platform** – A React + Tailwind CSS project deployed on Azure, offering a clean and responsive interface for listing and exploring real estate properties
+  - 👥 **User Management System** – Lightweight PHP/MySQL app with AJAX-based insert/update/delete, scrollable views, and a modular backend
+- 🌱 Currently learning: **Spring Boot**, **Node.js**, **React with backend APIs**, **AJAX**
+- 💡 Interests: Full-stack architecture, building real-use systems, UI/UX refinement
+- ⚡ Fun fact: I enjoy rebuilding the same project in multiple stacks just to challenge myself
 
 ---
 
 ### 💼 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,js,bootstrap,html,css,git,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,js,react,tailwind,bootstrap,html,css,git,vscode,eclipse" />
 </p>
 
 ---
