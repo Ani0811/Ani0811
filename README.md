@@ -9,7 +9,7 @@
   - Inventory Manager 📦
   - Personal Portfolio using PHP + Node.js 🧑‍💼
 - 💬 Ask me about anything web-related (ASP.NET MVC, PHP, JS, etc.)
-- 📫 Reach me at: `your.email@example.com`
+- 📫 Reach me at: `anirudha.basuthakur@example.com`
 - ⚡ Fun fact: I love rebuilding my own projects in different stacks
 
 ---
