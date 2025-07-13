@@ -3,6 +3,10 @@
 </h1>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="glitch code animation">
+</p>
+
+<p align="center">
   <a href="https://github.com/Ani0811">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+CS+Student;Spring+Boot+%7C+PHP+%7C+ASP.NET+MVC;Passionate+about+Web+Dev+%F0%9F%92%BB;Open+to+collaborate+on+projects+%F0%9F%91%A5" alt="Typing SVG" />
   </a>
@@ -50,7 +54,6 @@
 <p align="center">
   <img src="https://github.com/Ani0811/Ani0811/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 
 ---
 
