@@ -8,24 +8,7 @@
 
 <table>
   <tr>
-    <!-- Sidebar -->
-    <td width="30%" valign="top">
-
-      <h3>📬 Contact</h3>
-      <ul>
-        <li><a href="mailto:anirudha.basuthakur@gmail.com">anirudha.basuthakur@gmail.com</a></li>
-        <li><a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">LinkedIn</a></li>
-      </ul>
-
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,js,react,tailwind,bootstrap,html,css,git,vscode,eclipse" width="180" />
-
-    </td>
-
-    <!-- Main Section -->
-    <td width="70%" valign="top">
-
----
+   
 
 ## 👨‍🎓 About Me
 
