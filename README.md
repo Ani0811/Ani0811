@@ -51,9 +51,9 @@ Final Year CS student focused on building **robust web platforms**. I thrive on 
 
 ---
 
-## 📫 Let’s Connect
+<h2 align="center">📬 Contact Info</h2>
 
 <p align="center">
-  <a href="mailto:anirudha.basuthakur@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  📧 <a href="mailto:anirudha.basuthakur@gmail.com">anirudha.basuthakur@gmail.com</a><br>
+  💼 <a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">linkedin.com/in/anirudha-basu-thakur-686aa8253</a>
 </p>
