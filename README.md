@@ -1,59 +1,66 @@
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anirudha!
+<table>
+  <tr>
+    <td width="35%" valign="top">
+
+      <h3>📬 Contact Info</h3>
+      <ul>
+        <li><strong>Email:</strong><br>
+        <a href="mailto:anirudha.basuthakur@gmail.com">anirudha.basuthakur@gmail.com</a></li>
+        <li><strong>LinkedIn:</strong><br>
+        <a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">linkedin.com/in/anirudha-basu-thakur</a></li>
+      </ul>
+
+      <h3>💻 Tech Stack</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,js,react,tailwind,bootstrap,html,css,git,vscode,eclipse" />
+      </p>
+
+    </td>
+    <td width="65%" valign="top">
+
+<h1 align="left">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Anirudha!
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="glitch code animation">
+<p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="code gif">
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+### 👨‍🎓 About Me
 
 Final Year CS student focused on building **robust web platforms**. I thrive on full-stack development, clean UI, and reusing projects across tech stacks to level up my skills.
 
 ---
 
-## 🔭 Projects
+### 🔭 Projects
 
-- 💳 **Online Bank Management System** *(Spring Boot + MySQL)* – Secure bank management with user roles & transactions  
-- 📦 **Inventory Management System** *(ASP.NET MVC)* – Custom DAL, CRUD & stock tracking  
-- 🏘️ **Rimberio – Real Estate Platform** *(React + Tailwind, deployed on Azure)* – Modern listing site with a polished UI  
-- 👥 **User Management System** *(PHP + AJAX + MySQL)* – Lightweight admin tool with dynamic CRUD
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,mysql,js,react,tailwind,bootstrap,html,css,git,vscode,eclipse" />
-</p>
+- 💳 **Online Bank Management System** *(Spring Boot + MySQL)*  
+- 📦 **Inventory Management System** *(ASP.NET MVC)*  
+- 🏘️ **Rimberio – Real Estate Platform** *(React + Tailwind + Azure)*  
+- 👥 **User Management System** *(PHP + AJAX + MySQL)*  
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani0811&theme=tokyonight" />
 </p>
-<p align="center">
+<p>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contributions
+### 🐍 Contributions
 
-<p align="center">
+<p>
   <img src="https://github.com/Ani0811/Ani0811/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
 
----
-
-<h2 align="center">📬 Contact Info</h2>
-
-<p align="center">
-  📧 <a href="mailto:anirudha.basuthakur@gmail.com">anirudha.basuthakur@gmail.com</a><br>
-  💼 <a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">linkedin.com/in/anirudha-basu-thakur-686aa8253</a>
-</p>
+    </td>
+  </tr>
+</table>
