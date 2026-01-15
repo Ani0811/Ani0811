@@ -43,7 +43,5 @@ Final Year CS student focused on building **robust web platforms**. I thrive on 
 <p align="center">
   <img src="https://github.com/Ani0811/Ani0811/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
-
-    </td>
   </tr>
 </table>
