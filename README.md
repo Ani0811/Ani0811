@@ -18,10 +18,11 @@ Final Year CS student focused on building **robust web platforms**. I thrive on 
 
 ## 🔭 Projects
 
-- 💳 **Online Bank Management System** *(Spring Boot + MySQL)*  
+- 💳 **Online Bank Management System** *(Spring Boot + MySQL)*
+- 👥 **User Management System** *(PHP + AJAX + MySQL)*   
 - 📦 **Inventory Management System** *(ASP.NET MVC)*  
-- 🏘️ **Rimberio – Real Estate Platform** *(React + Tailwind, deployed on Azure)*  
-- 👥 **User Management System** *(PHP + AJAX + MySQL)*  
+- 🏘️ **Rimberio – Real Estate Platform** *(React + Tailwind, deployed on Azure)*
+- 🍽️ **Foodie-Frenzy – Restaurant Website** *(React + Tailwind, deployed on Render)*
 
 ---
 
