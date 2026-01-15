@@ -12,7 +12,7 @@
 
 ## 👨‍🎓 About Me
 
-Final Year CS student focused on building **robust web platforms**. I thrive on full-stack development, clean UI, and reusing projects across tech stacks to level up my skills.
+Passed out CS student focused on building **robust web platforms**. I thrive on full-stack development, clean UI, and reusing projects across tech stacks to level up my skills.
 
 ---
 
