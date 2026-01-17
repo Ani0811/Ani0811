@@ -15,6 +15,14 @@ I enjoy full-stack development, clean UI design, and re-engineering projects acr
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,php,cs,dotnet,js,react,html,css,tailwind,mysql,git,github,azure&perline=7" />
+</p>
+
+---
+
 ## 🔭 Projects
 
 - 💳 **Online Bank Management System** *(Spring Boot + MySQL)*
@@ -28,14 +36,13 @@ I enjoy full-stack development, clean UI design, and re-engineering projects acr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani0811&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani0811&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
