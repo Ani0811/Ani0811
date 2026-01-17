@@ -1,47 +1,57 @@
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anirudha!
+  Hi there 👋, I'm Anirudha!
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="glitch code animation">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation" />
 </p>
 
-<table>
-  <tr>
-   
+---
 
 ## 👨‍🎓 About Me
 
-Passed out CS student focused on building **robust web platforms**. I thrive on full-stack development, clean UI, and reusing projects across tech stacks to level up my skills.
+Computer Science graduate focused on building **robust, scalable web platforms**.  
+I enjoy full-stack development, clean UI design, and re-engineering projects across different tech stacks to sharpen my fundamentals.
 
 ---
 
 ## 🔭 Projects
 
 - 💳 **Online Bank Management System** *(Spring Boot + MySQL)*
-- 👥 **User Management System** *(PHP + AJAX + MySQL)*   
-- 📦 **Inventory Management System** *(ASP.NET MVC)*  
-- 🏘️ **Rimberio – Real Estate Platform** *(React + Tailwind, deployed on Azure)*
-- 🍽️ **Foodie-Frenzy – Restaurant Website** *(React + Tailwind, deployed on Render)*
+- 👥 **User Management System** *(PHP + AJAX + MySQL)*
+- 📦 **Inventory Management System** *(ASP.NET MVC)*
+- 🏘️ **Rimberio – Real Estate Platform** *(React + Tailwind, Azure)*
+- 🍽️ **Foodie-Frenzy – Restaurant Website** *(React + Tailwind, Render)*
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani0811&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani0811&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contributions
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/Ani0811/Ani0811/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  <img src="https://github.com/Ani0811/Ani0811/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </p>
-  </tr>
-</table>
+
+---
+
+## 💬 Random Programming Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+⭐ *If you like my work, consider starring a repo — it helps more than you think.*
