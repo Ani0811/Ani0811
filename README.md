@@ -43,7 +43,7 @@ I enjoy full-stack development, clean UI design, and re-engineering projects acr
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
----
+
 
 ## 🐍 Contribution Graph
 
