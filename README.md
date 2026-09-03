@@ -1,47 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ani+%F0%9F%91%8B;Full-Stack+Developer;Building+%C2%B7+Breaking+%C2%B7+Debugging;Exploring+AI+%26+GPU+Computing" />
+# 👋 Hey, I'm Anirudha
+
+### Full-Stack Developer · Software Engineer · Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&center=true&vCenter=true&width=750&lines=Building+software+that+actually+does+something.;Full-Stack+Development+%7C+AI+%7C+Systems;Turning+ideas+into+working+products.;Build.+Break.+Debug.+Repeat." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Ani0811&style=for-the-badge&color=blueviolet" />
+<a href="https://anirudha-basu-thakur-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Ani0811">
+<img src="https://img.shields.io/badge/GitHub-Ani0811-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-<div align="center">
+## 🧑‍💻 About Me
 
-### `I build software, not just repositories.`
+I'm **Ani**, a software developer focused on building full-stack applications, developer tools, and technically ambitious side projects.
 
-Full-stack developer focused on **web applications, software tools, gaming technology and AI**.
+I enjoy working across the stack — from **frontend architecture and backend systems to databases, APIs, AI/ML and GPU-accelerated software**.
 
-Currently pursuing my **MCA** and turning increasingly ambitious ideas into working software.
-
-</div>
+I'm less interested in collecting technologies and more interested in **building things with them**.
 
 ---
 
-## 🧠 About
+# 🚀 Featured Work
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  👨‍💻  Full-Stack Developer                                 │
-│  🎓  MCA Student                                            │
-│  🚀  Product & Project Builder                              │
-│  🤖  AI / ML Explorer                                       │
-│  🎮  Gaming Technology Enthusiast                            │
-│                                                             │
-│  I like taking an idea → designing it → building it →       │
-│  breaking it → debugging it → making it work.               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🎮 Mission Control</h2>
+
+<h3>Autonomous Gaming AI & Telemetry Overlay</h3>
+
+An ambitious gaming software platform combining **AI assistance, real-time telemetry, system monitoring and an in-game overlay**.
+
+Built around the idea of turning the gaming environment into an intelligent, observable system rather than simply another game launcher.
+
+<br><br>
+
+<b>Core Technologies</b>
+
+<br>
+
+<code>Next.js</code> <code>Electron</code> <code>Python</code> <code>FastAPI</code> <code>PyTorch</code> <code>CUDA</code> <code>TensorRT</code>
+
+<br><br>
+
+<a href="https://mission-control-roan-seven.vercel.app/">
+<img src="https://img.shields.io/badge/Explore%20Mission%20Control-58A6FF?style=for-the-badge&logo=rocket&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🌐 G-One Media</h2>
+
+<h3>Digital Development & Web Solutions</h3>
+
+A development venture focused on creating **modern websites, digital experiences and software solutions**.
+
+G-One Media gives me experience beyond personal projects — working with real requirements, design, development and delivering usable software.
+
+<br><br>
+
+<b>Core Technologies</b>
+
+<br>
+
+<code>React</code> <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>SQL</code> <code>MongoDB</code>
+
+<br><br>
+
+<a href="https://ani0811.github.io/G-OneMedia/">
+<img src="https://img.shields.io/badge/Visit%20G--One%20Media-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h2>🍔 Foodie-Frenzy</h2>
+
+<h3>Full-Stack Food Application</h3>
+
+A full-stack web application built around a modern frontend, backend APIs and database-driven functionality.
+
+<br><br>
+
+<b>Stack</b>
+
+<br>
+
+<code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code>
+
+<br><br>
+
+<a href="https://foodie-frenzy-5656323623.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2>🏠 Real Estate</h2>
+
+<h3>Buy · Sell · Rent Properties</h3>
+
+A responsive real-estate platform focused on property discovery and a clean modern web experience.
+
+<br><br>
+
+<b>Stack</b>
+
+<br>
+
+<code>React</code> <code>Tailwind CSS</code>
+
+<br><br>
+
+<a href="https://realestate-frontend-react.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# ⚡ Tech Arsenal
+# ⚙️ Tech Stack
 
 <div align="center">
 
@@ -61,7 +168,10 @@ Currently pursuing my **MCA** and turning increasingly ambitious ideas into work
 
 <img src="https://skillicons.dev/icons?i=pytorch" />
 
-`CUDA` · `TensorRT`
+<br/>
+
+<img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" />
 
 ### Tools
 
@@ -71,99 +181,21 @@ Currently pursuing my **MCA** and turning increasingly ambitious ideas into work
 
 ---
 
-# 🚀 What I'm Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## 🎮 Mission Control
-
-**Gaming × Software × AI**
-
-A gaming command center bringing together system information, gaming utilities, monitoring and AI-powered functionality.
-
-Built as a serious exploration into **desktop software, GPU computing and AI-assisted gaming**.
-
-**Stack**
-
-`React` `Node.js` `Python` `PyTorch` `CUDA` `TensorRT`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 G-One Media
-
-**Development × Design × Real Projects**
-
-A digital development venture focused on building modern websites and software for real-world use.
-
-Working across **UI/UX, frontend, backend, databases and deployment**.
-
-**Stack**
-
-`React` `Next.js` `Node.js` `Express` `SQL` `MongoDB`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## 🍔 Foodie-Frenzy
-
-**Full-Stack Web Application**
-
-A full-stack food application combining a modern frontend with backend APIs and database-driven functionality.
-
-**Stack**
-
-`React` `Node.js` `Express` `MongoDB`
-
-<a href="https://github.com/Ani0811/foodie-frenzy-fullstack">→ View Repository</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🏠 Rimberio
-
-**Real Estate Web Application**
-
-A real-estate platform exploring responsive UI, modern frontend architecture and application deployment.
-
-**Stack**
-
-`React` `Tailwind CSS` `Azure`
-
-</td>
-</tr>
-</table>
-
----
-
-# 🔬 Currently Going Deeper Into
+# 🧠 Areas I'm Going Deeper Into
 
 <div align="center">
 
-`AI / ML`  `GPU Computing`  `PyTorch`  `TensorRT`
+`AI / ML` · `GPU Computing` · `Computer Vision` · `Backend Engineering`
 
-`Backend Engineering`  `System Design`  `Cloud`
+`System Design` · `Cloud Infrastructure` · `Desktop Software`
 
 </div>
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ani0811&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani0811&layout=compact&hide_border=true&theme=tokyonight" />
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Ani0811&theme=tokyonight&hide_border=true" />
 
@@ -181,48 +213,28 @@ A real-estate platform exploring responsive UI, modern frontend architecture and
 
 ---
 
-# 💻 The Philosophy
-
-<div align="center">
-
-```text
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-LEARN
-  ↓
-BUILD BETTER
-```
-
-</div>
-
----
-
 # 🌐 Find Me
 
 <div align="center">
 
+<a href="https://anirudha-basu-thakur-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/anirudha-basu-thakur-686aa8253/">
+<img src="https://img.shields.io/badge/LinkedIn-Anirudha%20Basu%20Thakur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="https://github.com/Ani0811">
-<img src="https://img.shields.io/badge/GitHub-Ani0811-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/badge/GitHub-Ani0811-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-### ⚡ Always building something.
+### ⚡ Build. Break. Debug. Repeat.
 
 </div>
